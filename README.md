@@ -12,4 +12,4 @@ utiliza as seguintes tecnoligias:
 
 - ## Próximas funcionalidades
 - [ ] Armazenar resultados em um txt
-- [ ] Mostra as % de voto por candidato.
+- [ ] Mostra a % de voto por candidato.
